@@ -1,0 +1,13 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\bin\Debug\netcoreapp3.1\idade-para-votar.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\bin\Debug\netcoreapp3.1\idade-para-votar.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\bin\Debug\netcoreapp3.1\idade-para-votar.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\bin\Debug\netcoreapp3.1\idade-para-votar.runtimeconfig.dev.json
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\bin\Debug\netcoreapp3.1\idade-para-votar.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\bin\Debug\netcoreapp3.1\idade-para-votar.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.csprojAssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\C#\idade-para-votar\obj\Debug\netcoreapp3.1\idade-para-votar.genruntimeconfig.cache
